@@ -342,6 +342,10 @@ header .header-content img{
     background-color: var(--bg-primary-color);
     overflow: hidden;
     padding: 0;
+    width: 100%;
+    object-fit: cover;
+    
+
 }
 
 
